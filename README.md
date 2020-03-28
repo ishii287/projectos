@@ -20,6 +20,7 @@ Resource allocated to process 4 (R1 R2 ...)? 2 1 1
 Resource allocated to process 5 (R1 R2 ...)? 0 0 2
 
 
+
 Maximum resource required by process 1 (R1 R2 ...)? 7 5 3
 
 Maximum resource required by process 2 (R1 R2 ...)? 3 2 2
@@ -47,6 +48,7 @@ Executing Processes...
 	Process Releasing Resource...
 	Resource Released!
 	Now Available :   5  3  2
+
 
 
 --> Process 4
