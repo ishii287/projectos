@@ -10,16 +10,24 @@ Number of resources? 3
 Currently Available resources (R1 R2 ...)? 3 3 2
 
 Resource allocated to process 1 (R1 R2 ...)? 0 1 0
+
 Resource allocated to process 2 (R1 R2 ...)? 2 0 0
+
 Resource allocated to process 3 (R1 R2 ...)? 3 0 2
+
 Resource allocated to process 4 (R1 R2 ...)? 2 1 1
+
 Resource allocated to process 5 (R1 R2 ...)? 0 0 2
 
 
 Maximum resource required by process 1 (R1 R2 ...)? 7 5 3
+
 Maximum resource required by process 2 (R1 R2 ...)? 3 2 2
+
 Maximum resource required by process 3 (R1 R2 ...)? 9 0 2
+
 Maximum resource required by process 4 (R1 R2 ...)? 2 2 2
+
 Maximum resource required by process 5 (R1 R2 ...)? 4 3 3
 
 
